@@ -45,7 +45,7 @@
 
 <div class="row justify-content-center">
 <div class="col-md-5 form-group text-center">
-<input type="submit" value="Send Message" class="btn btn-block btn-primary rounded-0 py-2 px-4">
+<input type="submit" value="enregistrer" class="btn btn-block btn-primary rounded-0 py-2 px-4">
 <span class="submitting"></span>
 
 
