@@ -1,0 +1,6 @@
+
+@media print{
+	 #bt, h1 ,form{
+		display: none;
+	}
+} 
