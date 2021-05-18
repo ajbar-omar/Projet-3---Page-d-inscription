@@ -2,7 +2,8 @@
 
 
 body { 
-	background: #03d1ec; 
+	background-image: linear-gradient(#cc6ce4,#1c1d1d);
+	opacity: 0,1;
 }
 body, input, textarea { 
 	font: 14px/24px Helvetica, Arial, sans-serif; 
